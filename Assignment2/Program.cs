@@ -164,6 +164,19 @@ namespace Assignment2
             #endregion
 
 
+            #region Question14
+            //int count = 0;
+
+            //do
+            //{
+            //    Console.WriteLine("Checking book...");
+            //    count++;
+            //} while (count < 3);
+
+            #endregion
+
+
+
 
 
 
