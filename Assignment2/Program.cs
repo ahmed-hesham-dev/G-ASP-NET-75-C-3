@@ -89,6 +89,26 @@ namespace Assignment2
 
 
 
+            #region Question8
+            //Console.Write("Enter the number of pages: ");
+            //bool flag = int.TryParse(Console.ReadLine(), out int pages);
+
+            //if (pages > 300)
+            //{
+            //    Console.WriteLine("Long Book");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Short Book");
+            //}
+
+            #endregion
+
+
+
+
+
+
 
         }
     }
