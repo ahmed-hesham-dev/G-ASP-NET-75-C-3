@@ -1,4 +1,6 @@
-﻿namespace Assignment2
+﻿using System.Text;
+
+namespace Assignment2
 {
     internal class Program
     {
@@ -24,7 +26,15 @@
             #endregion
 
 
+            #region Question3
 
+            //StringBuilder sb = new StringBuilder();
+            //sb.Append("Book list");
+            //sb.Append(" - Updated");
+
+            //Console.WriteLine(sb.ToString());
+
+            #endregion
 
 
 
