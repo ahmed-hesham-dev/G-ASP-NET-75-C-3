@@ -105,6 +105,20 @@ namespace Assignment2
             #endregion
 
 
+            #region Question9
+            //int pages = 464;
+            //bool isAvailable = true;
+
+            //if (pages > 300 && isAvailable)
+            //{
+            //    Console.WriteLine("You can borrow this book");
+            //}
+
+            #endregion
+
+
+
+
 
 
 
