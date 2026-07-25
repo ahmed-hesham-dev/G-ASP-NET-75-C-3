@@ -26,17 +26,30 @@ namespace Assignment2
             #endregion
 
 
-            #region Question3
+            #region Qestion3
 
-            //StringBuilder sb = new StringBuilder();
-            //sb.Append("Book list");
-            //sb.Append(" - Updated");
+            //    StringBuilder sb = new StringBuilder();
+            //    sb.Append("Book list");
+            //      sb.Append(" - Updated");
 
             //Console.WriteLine(sb.ToString());
 
             #endregion
 
 
+            #region Question4
+            //StringBuilder sb = new StringBuilder();
+
+            //sb.Append("Book List");
+
+            //Console.WriteLine("Before Replace: " + sb.ToString());
+
+            //sb.Replace("Book List", "Library");
+
+            //Console.WriteLine("After Replace: " + sb.ToString());
+
+
+            #endregion
 
 
 
