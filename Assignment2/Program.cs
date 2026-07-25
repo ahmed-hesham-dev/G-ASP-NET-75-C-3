@@ -4,7 +4,13 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            #region Question1
+            //string title = "clean code";
+            //string upperTitle = title.ToUpper();
+
+            //Console.WriteLine("title: " + title);
+            //Console.WriteLine("upperTitle: " + upperTitle);
+            #endregion
         }
     }
 }
