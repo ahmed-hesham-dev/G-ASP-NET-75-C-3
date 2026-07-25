@@ -152,6 +152,16 @@ namespace Assignment2
             //}
             #endregion
 
+            #region Question13
+            //string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };
+
+            //int i = 0;
+            //while (i < books.Length)
+            //{
+            //    Console.WriteLine((i + 1) + ". " + books[i]);
+            //    i++;
+            //}
+            #endregion
 
 
 
