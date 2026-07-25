@@ -4,7 +4,23 @@ namespace Assignment2
 {
     internal class Program
     {
-        static void Main(string[] args)
+
+        #region Question18
+
+        //static string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };
+
+        //static void PrintFirstBook()
+        //{
+        //    if (books.Length == 0)
+        //    {
+        //        return;
+        //    }
+
+        //    Console.WriteLine(books[0]);
+        //}
+        #endregion
+
+            static void Main(string[] args)
         {
             #region Question1
             //string title = "clean code";
@@ -220,7 +236,9 @@ namespace Assignment2
 
 
 
-
+            #region Question18
+            //PrintFirstBook();
+            #endregion
 
 
 
