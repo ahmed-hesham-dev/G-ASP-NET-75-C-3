@@ -52,7 +52,16 @@ namespace Assignment2
             #endregion
 
 
+            #region Question5
 
+            //string title = "Clean Code";
+            //int pages = 464;
+
+            //string result = "Book: " + title + ", Pages: " + pages;
+
+            //Console.WriteLine(result);
+
+            #endregion
 
 
 
